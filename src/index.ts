@@ -1,6 +1,3 @@
-// import * as tfvis from '@tensorflow/tfjs-vis';
-// import * as tf from '@tensorflow/tfjs';
-
 /**
  * Get the car data reduced to just the variables we are interested
  * and cleaned of missing data.
