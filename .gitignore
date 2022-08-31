@@ -1,0 +1,6 @@
+# Distr and env
+node_modules/
+.parcel-cache/
+
+# Compiled app
+dist/
